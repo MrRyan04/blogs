@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+header {
+    background-color: rgba(123, 165, 151, 0.832);
+}
+
+li {
+    list-style: none;
+}
+
+img {
+    width: 5%;
+}
